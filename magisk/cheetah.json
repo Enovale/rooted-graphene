@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2024123000/cheetah-2024123000-1749fd2-magisk-v28.1.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2024123000/cheetah-2024123000-1749fd2-magisk-v28.1.zip.csig"
+  }
+}
