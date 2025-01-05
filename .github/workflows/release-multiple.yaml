@@ -18,15 +18,15 @@ jobs:
       max-parallel: 1
       matrix:
         include:
+          - device-id: sunfish # Pixel 4a
+            magisk-preinit-device: metadata
+          - device-id: akita # Pixel 8a
+            magisk-preinit-device: sda10
           - device-id: caiman # Pixel 9 Pro
             magisk-preinit-device: sda10
           - device-id: shiba # Pixel 8
             magisk-preinit-device: sda10
-          - device-id: akita # Pixel 8a
-            magisk-preinit-device: sda10
           - device-id: oriole # Pixel 6
-            magisk-preinit-device: metadata
-          - device-id: sunfish # Pixel 4a
             magisk-preinit-device: metadata
           - device-id: cheetah # Pixel Pro 7 
             magisk-preinit-device: persist # https://xdaforums.com/t/guide-to-lock-bootloader-while-using-rooted-otaos-magisk-root.4510295/page-5#post-88499289)
