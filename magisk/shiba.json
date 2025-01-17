@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025010700/shiba-2025010700-04a137e-magisk-v28.1.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025010700/shiba-2025010700-04a137e-magisk-v28.1.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025011500/shiba-2025011500-a488eb1-magisk-v28.1.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025011500/shiba-2025011500-a488eb1-magisk-v28.1.zip.csig"
   }
 }
