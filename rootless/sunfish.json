@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2024092100/sunfish-2024092100-1749fd2-rootless.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2024092100/sunfish-2024092100-1749fd2-rootless.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025012100/sunfish-2025012100-8f23f04-rootless.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025012100/sunfish-2025012100-8f23f04-rootless.zip.csig"
   }
 }
