@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025012700/oriole-2025012700-38de457-magisk-v28.1.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025012700/oriole-2025012700-38de457-magisk-v28.1.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025020200/oriole-2025020200-3a00ffb-magisk-v28.1.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025020200/oriole-2025020200-3a00ffb-magisk-v28.1.zip.csig"
   }
 }
