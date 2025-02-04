@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025012700/caiman-2025012700-38de457-rootless.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025012700/caiman-2025012700-38de457-rootless.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025020200/caiman-2025020200-3a00ffb-rootless.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025020200/caiman-2025020200-3a00ffb-rootless.zip.csig"
   }
 }
