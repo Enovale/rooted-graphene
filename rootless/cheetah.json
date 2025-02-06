@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025020300/cheetah-2025020300-97f8089-rootless.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025020300/cheetah-2025020300-97f8089-rootless.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025020500/cheetah-2025020500-97f8089-rootless.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025020500/cheetah-2025020500-97f8089-rootless.zip.csig"
   }
 }
