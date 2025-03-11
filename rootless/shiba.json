@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025030800/shiba-2025030800-4b29dba-rootless.zip",
-    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025030800/shiba-2025030800-4b29dba-rootless.zip.csig"
+    "location_ota": "https://github.com/Enovale/rooted-graphene/releases/download/2025030900/shiba-2025030900-4b29dba-rootless.zip",
+    "location_csig": "https://github.com/Enovale/rooted-graphene/releases/download/2025030900/shiba-2025030900-4b29dba-rootless.zip.csig"
   }
 }
