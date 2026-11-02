@@ -35,7 +35,7 @@ SKIP_MAGISK=${SKIP_MAGISK:-'false'}
 # https://github.com/pixincreate/Magisk
 # Note that modules verifying magisk's signature won't work with this fork.
 # Enable by setting to "false".
-SKIP_PIXINCREATE=${SKIP_PIXINCREATE:-'true'}
+SKIP_PIXINCREATE=${SKIP_PIXINCREATE:-'false'}
 # https://grapheneos.org/releases#stable-channel
 OTA_VERSION=${OTA_VERSION:-'latest'}
 
@@ -44,13 +44,13 @@ OTA_VERSION=${OTA_VERSION:-'latest'}
 # Find latest magisk version here: https://github.com/topjohnwu/Magisk/releases, or:
 # curl --fail -sL -I -o /dev/null -w '%{url_effective}' https://github.com/topjohnwu/Magisk/releases/latest | sed 's/.*\/tag\///;'
 # renovate: datasource=github-releases packageName=topjohnwu/Magisk versioning=semver-coerced
-DEFAULT_MAGISK_VERSION=v30.7
+DEFAULT_MAGISK_VERSION=v31.1
 MAGISK_VERSION=${MAGISK_VERSION:-${DEFAULT_MAGISK_VERSION}}
 
 # Version of pixincreate's magisk fork. Its tags don't always match upstream magisk's, e.g. v31.0-3.
 # Find latest version here: https://github.com/pixincreate/Magisk/releases
 # renovate: datasource=github-releases packageName=pixincreate/Magisk versioning=semver-coerced
-DEFAULT_PIXINCREATE_VERSION=v31.0-3
+DEFAULT_PIXINCREATE_VERSION=v31.1
 PIXINCREATE_VERSION=${PIXINCREATE_VERSION:-${DEFAULT_PIXINCREATE_VERSION}}
 
 SKIP_CLEANUP=${SKIP_CLEANUP:-''}
